@@ -16,3 +16,8 @@ github_username: waynegraham
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - github-pages
+  - jekyll-sitemap
+  - jekyll-feed
