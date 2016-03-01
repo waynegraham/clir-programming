@@ -9,8 +9,8 @@
 title: CLIR Intro to Programming
 email: wgraham@clir.org
 description: Introduction to programming concepts with web development
-baseurl: "/clir-programming" # the subpath of your site, e.g. /blog
-url: "https://waynegraham.github.io" # the base hostname & protocol for your site
+baseurl: "clir-programming" # the subpath of your site, e.g. /blog
+url: "https://waynegraham.github.io/" # the base hostname & protocol for your site
 twitter_username: wayne_graham
 github_username: waynegraham
 
