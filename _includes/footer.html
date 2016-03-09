@@ -36,3 +36,13 @@
   </div>
 
 </footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+{% for js in page.external-javascript %}
+  <script src="{{ js }}"></script>
+{% endfor %}
+
+{% for js in page.javascript %}
+  <script src="{{ js | prepend: site.baseurl }}"></script>
+{% endfor %}
