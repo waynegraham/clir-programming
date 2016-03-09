@@ -52,9 +52,7 @@ Once you type `mkdir projects`, type ls again to confirm that the folder was cre
 
 Now, create three more textfiles like this -
 
-```
-touch {textfile2.txt,textfile3.txt,textfile4.txt}
-```
+`touch {textfile2.txt,textfile3.txt,textfile4.txt}`
 
 You can add as many new files as you want to the comma-delimited list to create a bunch of files with one command. Now, there should be 4 blank text files in the directory "testdir", which sits inside of the "projects" directory.
 
