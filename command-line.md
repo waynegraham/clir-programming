@@ -50,7 +50,13 @@ Once you type `mkdir projects`, type ls again to confirm that the folder was cre
 
 `mkdir` creates directories, but directories are just buckets for actual data, which is contained in files. To create a new file in the current directory, use the `touch` command. Type `touch textfile.txt`. This will create a blank text file called `textfile.txt`. I often tend to type `ls` or `pwd` before or after important commands just to make sure that I'm in the right location and that the previous command did what I wanted it to.
 
-Now, create three more textfiles like this - `touch {textfile2.txt,textfile3.txt,textfile4.txt}`. You can add as many new files as you want to the comma-delimited list to create a bunch of files with one command. Now, there should be 4 blank text files in the directory "testdir", which sits inside of the "projects" directory.
+Now, create three more textfiles like this -
+
+```
+touch {textfile2.txt,textfile3.txt,textfile4.txt}
+```
+
+You can add as many new files as you want to the comma-delimited list to create a bunch of files with one command. Now, there should be 4 blank text files in the directory "testdir", which sits inside of the "projects" directory.
 
 # Quiz time
 
