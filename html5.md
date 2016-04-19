@@ -2,7 +2,6 @@
 layout: page
 title: Introducing HTML5
 permalink: /html5/
-
 ---
 
 Modern web pages are complex systems that can be broken down in to three major components: **Structure**, **Presentation**, and **Interactivity**. The structure of a web page is represented in the **H**yper**t**ext **M**arkup **L**anguage (HTML), the presentation in **C**ascading **S**tyle**s**eets, and interactivity *mostly* with JavaScript. Dealing with these different components (along with variations in browsers and operating systems) has been an issue since the beginning of the Information Age. Eventually we'll start taking some shortcuts, but for now, we'll do this the old fashioned way, where we walk up-hill both ways in the snow.
