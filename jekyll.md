@@ -166,7 +166,9 @@ date: "2016-04-19 10:40:36 -0400"
 Jekyll is a lot of fun!
 {% endhighlight %}
 
+If you reload your web browser, you should now see the new post added:
 
+![jekyll new post](../images/first_post.png)
 
 
 ## Deploying
